@@ -1,4 +1,5 @@
 # Git-basics-week4
+
 I opened my GitBash terminal and changed my directory to D drive using "cd D:/"
 
 Inside the D drive i created a new folder named Git basics using mkdir 'Git-basics'
@@ -15,9 +16,9 @@ inserted message into it using vim 'vim hello.txt'
 
 'vim hello.txt' opens vim editor and i pressed 'i' to insert into the editor then 'esc' key when am done typing then :wq to save and exit
 
-i then git add . all the changes to stage them
+I then git add . all the changes to stage them
 
-i then committed the changes using git commit -m "my message"
+I then committed the changes using git commit -m "my message"
 
 Pushed the changes to the repo using git push origin main
 
