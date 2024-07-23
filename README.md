@@ -1,4 +1,20 @@
 # Git-basics-week4
+#commands used
+
+#inside vim editor
+-vim
+-i
+-:wq
+
+#in gtbash
+-cd
+-mkdir
+-touch
+-git clone
+-git add .
+-git commit
+-git push
+-git status
 
 I opened my GitBash terminal and changed my directory to D drive using "cd D:/"
 
